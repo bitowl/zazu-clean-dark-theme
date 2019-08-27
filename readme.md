@@ -4,11 +4,11 @@
 
 ## Installing
 
-1. Mark `singuerinc/zazu-clean-dark-theme` inside of your `~/.zazurc.json` file.
+1. Mark `bitowl/zazu-clean-dark-theme` inside of your `~/.zazurc.json` file.
 
   ```json
   {
-    "theme": "singuerinc/zazu-clean-dark-theme"
+    "theme": "bitowl/zazu-clean-dark-theme"
   }
   ```
 
